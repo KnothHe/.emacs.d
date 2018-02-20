@@ -54,9 +54,9 @@
 
 ;;设置词库
 (setq pyim-dicts
-      '((:name "dict1"             :file "/Home/.emacs.d/dict/pyim-sougou.pyim")
-        (:name "bigdict"          :file "/Home/.emacs.d/dict/pyim-bigdict.pyim")
-        (:name "bigdict2"        :file "/Home/.emacs.d/dict/pyim-bigdict2.pyim")
-        (:name "mathematics" :file "/Home/.emacs.d/dict/mathematics.pyim")))
+      '((:name "dict1"           :file "C:/Home/.emacs.d/dict/pyim-sougou.pyim")
+        (:name "bigdict"         :file "C:/Home/.emacs.d/dict/pyim-bigdict.pyim")
+        (:name "bigdict2"        :file "C:/Home/.emacs.d/dict/pyim-bigdict2.pyim")
+        (:name "mathematics"     :file "C:/Home/.emacs.d/dict/mathematics.pyim")))
 
 (provide 'init-pyim)
